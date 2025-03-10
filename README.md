@@ -2,7 +2,11 @@
 
 OtoDecks is a DJ deck application built with the JUCE framework that allows users to load, play, and mix audio tracks with various controls and visualizations.
 
-![OtoDecks Screenshot](screenshots/screenshot.png)
+
+
+https://github.com/user-attachments/assets/445072e0-6bfe-4aae-98cc-22760b3026d6
+
+
 
 ## Features
 
