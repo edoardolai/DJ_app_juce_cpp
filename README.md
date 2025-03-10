@@ -4,7 +4,7 @@ OtoDecks is a DJ deck application built with the JUCE framework that allows user
 
 
 
-https://github.com/user-attachments/assets/445072e0-6bfe-4aae-98cc-22760b3026d6
+<img width="1440" alt="Screenshot 2025-03-10 at 20 15 45" src="https://github.com/user-attachments/assets/7609d067-b893-49af-9a0b-5eb8639b782d" />
 
 
 
