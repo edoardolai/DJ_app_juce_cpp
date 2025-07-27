@@ -31,7 +31,7 @@ Before building the project, ensure you have:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/OtoDecks.git](https://github.com/edoardolai/DJ_app_juce_cpp.git
+   git clone https://github.com/edoardolai/DJ_app_juce_cpp.git
    cd OtoDecks
    ```
 
